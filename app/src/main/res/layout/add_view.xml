@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText5"
+        android:layout_gravity="right"
+        android:background="#ffffff"
+        android:hint="IP Address"
+        android:inputType="text"
+        android:textSize="25dp"
+        android:textStyle="italic"
+        android:editable="true" />
+
+    <EditText
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText6"
+        android:layout_gravity="right"
+        android:background="#ffffff"
+        android:hint="PORT NO."
+        android:inputType="number|text"
+        android:textSize="24dp"
+        android:textStyle="italic"
+        android:numeric="integer"
+        android:editable="true" />
+
+    <Button
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:text="Connect"
+        android:id="@+id/button2"
+        android:layout_gravity="right"
+        android:background="@color/button_material_dark"
+        android:onClick="Connect"/>
+</LinearLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">myfail3</string>
+    <string name="action_settings">Settings</string>
+    <string name="editText">Enter the ip address of the Server</string>
+    <string name="editText3">Enter the Port. no.</string>
+    <string name="editText1">Enter No. of Fans.</string>
+    <string name="editText2">Enter No. of Bulbs.</string>
+    <string name="editText4">Enter Username...</string>
+    <string name="button_send">Connect</string>
+    <string name="button_next">Next</string>
+    <string name="title_activity_displaymsg">displaymsg</string>
+    <string name="action_search">Search</string>
+    <string name="action_addmem">Add more members</string>
+    <string name="reply">Enter ur reply..</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">FAN_X</string>
+    <string name="drawer_open">Drawer_open</string>
+    <string name="drawer_close">Drawer_close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
